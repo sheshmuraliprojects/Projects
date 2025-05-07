@@ -35,5 +35,5 @@ Welcome to my project repository! This collection showcases my academic, technic
   Applied natural language processing to analyse mentor-student chat data and model final project performance in a simulated biomedical internship.
 
 ## 🔗 Contact
-For questions or collaborations, reach out via [LinkedIn](#) or email me at shesh098976@gmail.com.
+For questions or collaborations, reach out via email at shesh098976@gmail.com.
 
